@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="PlayerStatsResource" load_steps=2 format=3 uid="uid://qt18gsapw1k5"]
+
+[ext_resource type="Script" path="res://CustomResource.gd" id="1_1jl07"]
+
+[resource]
+script = ExtResource("1_1jl07")
+health = 100
+wears_helmet = false
